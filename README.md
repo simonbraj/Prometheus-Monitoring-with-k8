@@ -7,7 +7,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit originally 
 ## Cloning the Repository
 
 ```
-
+https://github.com/simonbraj/Prometheus-Monitoring-with-k8.git
 ```
 
 Connect to your Kubernetes cluster and set up the proxy for accessing the Kubernetes dashboard.
