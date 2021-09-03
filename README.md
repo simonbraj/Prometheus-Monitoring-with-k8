@@ -164,7 +164,7 @@ kubectl create -f prometheus-service.yaml --namespace=monitoring
 
 
 
-5. You can head over the homepage and select the metrics you need from the drop-down and get the graph for the time range you mention. An example graph for container memory utilization is shown below.
+5. You can head over the homepage and select the metrics you need from the drop-down and get the graph for the time range you mention. 
 
 
 
